@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background: url(./img/th\ \(1\).jfif);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+
+}
+
+a {
+    display: inline-block;
+  color:white;
+  text-decoration: none;
+  text-transform: capitalize;
+  border: 2px solid;
+  margin: 40vw;  
+  padding: 10px 13px;
+  border-radius: 6px;
+}
+a:visited{
+    background: rgba(255, 255, 255, 0.5);
+}
